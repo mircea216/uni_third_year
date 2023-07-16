@@ -1,0 +1,8 @@
+2) 3) 4)
+Cand desenam pdf - grafic format din puncte separate -> 
+o functie scara ! ! !
+5) 6) 7)
+var sep de tip continuu - fara restrictii de grafic 
+pt 5 - gasit functie - input - grade de libertate (medie si abatarea standard)
+6 - functie pt legea normala ca 
+7 - legea exponentiala
