@@ -1,0 +1,20 @@
+{
+  "states": [
+    "P",
+    "Q",
+    "R"
+  ],
+  "alphabet": [
+    "a",
+    "b"
+  ],
+  "transitions": [
+    "P,a,Q",
+    "Q,b,R",
+    "R,a,R"
+  ],
+  "initialState": "P",
+  "finalStates": [
+    "R"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "startSymbol": "S",
+  "nonterminals": [
+    "S",
+    "A",
+    "B"
+  ],
+  "terminals": [
+    "0",
+    "1"
+  ],
+  "productions": [
+    "S->A0|1B|ε",
+    "A->0B|1A",
+    "B->0B|1"
+  ]
+}
