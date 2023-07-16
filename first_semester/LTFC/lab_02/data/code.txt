@@ -1,0 +1,21 @@
+VAR
+n:INTEGER;
+d:INTEGER;
+z:INTEGER;
+z=202;
+t1:CHAR;
+t1='a';
+t2='b';
+sum:INTEGER;
+nr:INTEGER;
+BEGIN
+sum=0;
+READ(n)
+WHILE n>1
+DO
+BEGIN
+READ(nr)
+sum=sum+nr;
+n=n-1;
+END
+END.
